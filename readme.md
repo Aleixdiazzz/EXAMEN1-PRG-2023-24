@@ -109,7 +109,7 @@
   --
 
   You will find the OG scan of the exam [here](https://github.com/Aleixdiazzz/EXAMEN1-PRG-2023-24/blob/main/logicNExam1.pdf)., you will also find the logic followed      through the solving of the exam.
-  The source code can be found under the Examen1 PRG 2023-24 BLOC1 and PRG 2023-24 BLOC2 and there's also an available copy [here](https://github.com/Aleixdiazzz/EXAMEN1-PRG-2023-24/blob/main/logicNExam1.pdf)
+  The source code can be found under the Examen1 PRG 2023-24 BLOC1 and PRG 2023-24 BLOC2 and there's also an available copy [here](https://github.com/Aleixdiazzz/EXAMEN1-PRG-2023-24/blob/main/sourceCode.md)
 
 
 
